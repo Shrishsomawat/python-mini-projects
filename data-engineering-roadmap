@@ -1,0 +1,10 @@
+/data-engineering-roadmap
+   ├── 01_python_basics/
+   │     └── day1_python_basics.ipynb
+   ├── 02_sql/
+   ├── 03_etl/
+   ├── 04_airflow/
+   ├── 05_docker/
+   ├── 06_big_data_spark/
+   ├── 07_cloud_aws/
+   └── README.md
